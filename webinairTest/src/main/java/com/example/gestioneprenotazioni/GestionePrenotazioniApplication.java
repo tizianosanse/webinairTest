@@ -1,13 +1,14 @@
-package com.example.demo;
+package com.epicode.gestioneprenotazioni;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DemoApplication {
+public class GestionePrenotazioniApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DemoApplication.class, args);
+		SpringApplication.run(GestionePrenotazioniApplication.class, args);
+		
 	}
 
 }
